@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br>**Jin-Ju Wang (王金菊)** is currently pursuing the Ph.D. degree (advised by [Prof. Ding-Cheng Wang](https://www.math.uestc.edu.cn/info/1081/2032.htm) and [Prof. Jie Huang](https://www.researchgate.net/profile/Jie-Huang-12)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is a trainee (advised by [Prof. Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html)) with the Change Detection Team, University of Toulouse, IRIT/INP-ENSEEIHT. His research interests include hyperspectral unmixing, and change detection between heterogeneous images. <br> <br> **Email:** <jinjuwang123@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://jinju123.github.io/images/jinjuwang.jpg)&emsp; |
+| <br>**Jin-Ju Wang (王金菊)** is currently pursuing the Ph.D. degree (advised by [Prof. Ding-Cheng Wang](https://www.math.uestc.edu.cn/info/1081/2032.htm) and [Prof. Jie Huang](https://www.researchgate.net/profile/Jie-Huang-12)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is a visiting student (advised by [Prof. Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html)) with the Signal and Communications Group, the Institut de Recherche en Informatique de Toulouse (University of Toulouse, IRIT/INP-ENSEEIHT). Her research interests include hyperspectral unmixing, and change detection between heterogeneous images. <br> <br> **Email:** <jinjuwang123@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://jinju123.github.io/images/jinjuwang.jpg)&emsp; |
 
 
 
@@ -216,6 +216,7 @@ function toggleBibtex(articleid) {
 *  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2021
 *  Second-Class Academic Scholarship (学业二等奖学金), UESTC, 2020
 *  Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019
+  
 ---
 
 
