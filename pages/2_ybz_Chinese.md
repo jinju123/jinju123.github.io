@@ -55,147 +55,89 @@ function toggleBibtex(articleid) {
 
 ### 学术论文
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, **accepted**, 2022.
+* **Jin-Ju Wang**, Ding-Cheng Wang, Ting-Zhu Huang, Jie Huang\"Spatial feature extraction non-negative tensor factorization for hyperspectral unmixing\", _Applied Mathematical Modelling_, vol. 103, pp. 18-35, 2022. <a href="javascript:toggleBibtex('SFE-NTF')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0307904X21004686) 
 
-
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17321) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
-
-<div id="bib_zhengFCTN2021" class="BibTeX noshow">
+<div id="bib_SFE-NTF" class="BibTeX noshow">
 <pre>
-@inproceedings{zhengFCTN2021,
-  title={Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion}, 
-  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={12},
-  pages={11071-11078},
-  year={2021},  
+@article{SFE-NTF,
+title = {Spatial feature extraction non-negative tensor factorization for hyperspectral unmixing},
+journal = {Applied Mathematical Modelling},
+volume = {103},
+pages = {18-35},
+year = {2022},
+issn = {0307-904X},
 }
 </pre>
 </div>
 
+* **Jin-Ju Wang**, Ding-Cheng Wang, Ting-Zhu Huang, Jie Huang \"Endmember Constraint Non-Negative Tensor Factorization Via Total Variation for Hyperspectral Unmixing\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2021, pp. 3313-3316. (**Oral**) <a href="javascript:toggleBibtex('IGARSS2021_NTF')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9554468) 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Yong Chen, Wei He, \"Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. <a href="javascript:toggleBibtex('TGRS_LRTFDFR')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9084248) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
-
-<div id="bib_TGRS_LRTFDFR" class="BibTeX noshow">
+<div id="bib_IGARSS2021_NTF" class="BibTeX noshow">
 <pre>
-@article{TGRS_LRTFDFR,
-  author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Yong Chen and Wei He}, 
-  journal = {IEEE Transactions on Geoscience and Remote Sensing},  
-  title = {Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image},
-  year={2020},
-  volume={58},
-  number={12},
-  pages={8450-8464},
-  month={Dec.},
-}
-</pre>
-</div>
-
-
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. <a href="javascript:toggleBibtex('IS_Ntubal')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025520303923) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
-
-<div id="bib_IS_Ntubal" class="BibTeX noshow">
-<pre>
-@article{IS_Ntubal,
-  author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Teng-Yu Ji and Tian-Hui Ma},
-  journal = {Information Sciences},
-  title = {Tensor {N}-tubal rank and its convex relaxation for low-rank tensor recovery},
-  volume = {532},
-  pages = {170-189},
-  year = {2020},
-  month={Sep.},
-}
-</pre>
-</div>
-
-
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. <a href="javascript:toggleBibtex('TGRS_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8854307) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
-
-<div id="bib_TGRS_fibered" class="BibTeX noshow">
-<pre>
-@article{TGRS_fibered,
-  author ={Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Tian-Hui Ma and Teng-Yu Ji},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  title={Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization},
-  year={2020},
-  volume={58},
-  number={1},
-  pages={734-749},
-  month={Jan.},
-}
-</pre>
-</div>
-
-
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Teng-Yu Ji, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, \"Low-Rank Tensor Completion via Smooth Matrix Factorization\", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. <a href="javascript:toggleBibtex('AMM_SMFLRTC')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0307904X19300782) [[Code]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
-
-<div id="bib_AMM_SMFLRTC" class="BibTeX noshow">
-<pre>
-@article{AMM_SMFLRTC,
-  title = {Low-Rank Tensor Completion via Smooth Matrix Factorization},
-  journal = {Applied Mathematical Modelling},
-  volume = {70},
-  pages = {677-695},
-  year = {2019},
-  author = {Yu-Bang Zheng and Ting-Zhu Huang and Teng-Yu Ji and Xi-Le Zhao and Tai-Xiang Jiang and Tian-Hui Ma},
-  month={Jun.},
-}
-</pre>
-</div>
-
-
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Jie Huang, \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) <a href="javascript:toggleBibtex('IGARSS2019_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8900157) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
-
-<div id="bib_IGARSS2019_fibered" class="BibTeX noshow">
-<pre>
-@inproceedings{IGARSS2019_fibered,
-  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang and Huang, Jie},
-  booktitle={IEEE International Geoscience and Remote Sensing Symposium}, 
-  title={Hyperspectral Image Denoising Via Convex Low-Fibered-Rank Regularization}, 
-  year={2019},
+@inproceedings{IGARSS2021_NTF,
+  author={Wang, Jin-Ju and Wang, Ding-Cheng and Huang, Ting-Zhu and Huang, Jie},
+  booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, 
+  title={Endmember Constraint Non-Negative Tensor Factorization Via Total Variation for Hyperspectral Unmixingn}, 
+  year={2021},
   volume={},
   number={},
-  pages={222-225},
+  pages={3313-3316},
   }
 </pre>
 </div>
 
+* **Jin-Ju Wang**, Ting-Zhu Huang, Jie Huang, Liang-Jian Deng \"A two-step iterative algorithm for sparse hyperspectral unmixing via total variation\", _Applied Mathematics and Computation_, vol. 401, pp. 126059, 2021. <a href="javascript:toggleBibtex('TSWCSU-TV')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0096300321001077) 
 
-* Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 8025105. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
-
-<div id="bib_GRSL2021_NLFCTN" class="BibTeX noshow">
+<div id="bib_TSWCSU-TV" class="BibTeX noshow">
 <pre>
-@article{GRSL2021_NLFCTN,
-  title = {Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting},
-  journal = {IEEE Geoscience and Remote Sensing Letters},
-  volume = {19},
-  pages = {1-5},
-  year = {2022},
-  author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Zhi-Feng Pang},
-  month={},
+@article{TSWCSU-TV,
+title = {A two-step iterative algorithm for sparse hyperspectral unmixing via total variation},
+journal = {Applied Mathematics and Computation},
+volume = {401},
+pages = {126059},
+year = {2021},
+issn = {0096-3003},
+}
+</pre>
+</div>
+
+* **Jin-Ju Wang**, Ding-Cheng Wang, Ting-Zhu Huang, Jie Huang, Liang-Jian Deng, Xi-Le Zhao \"Endmember independence constrained hyperspectral unmixing via nonnegative tensor factorization\", _Knowledge-Based Systems_, vol. 216, pp. 106657, 2021. <a href="javascript:toggleBibtex('EIC-NTF')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705120307863) 
+
+<div id="bib_EIC-NTF" class="BibTeX noshow">
+<pre>
+@article{EIC-NTF,
+title = {Endmember independence constrained hyperspectral unmixing via nonnegative tensor factorization},
+journal = {Knowledge-Based Systems},
+volume = {216},
+pages = {106657},
+year = {2021},
+issn = {0950-7051},
+}
+</pre>
+</div>
+
+* **Jin-Ju Wang**, Ting-Zhu Huang, Jie Huang, Hong-Xia Dou, Liang-Jian Deng, Xi-Le Zhao \"Row-Sparsity Spectral Unmixing via Total Variation\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no.12, pp. 5009-5022, 2019, Art no. 8025105. <a href="javascript:toggleBibtex('RSSU-TV')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8905787) 
+
+<div id="bib_RSSU-TV" class="BibTeX noshow">
+<pre>
+@article{RSSU-TV,  
+author={Wang, Jin-Ju and Huang, Ting-Zhu and Huang, Jie and Dou, Hong-Xia and Deng, Liang-Jian and Zhao, Xi-Le},  
+journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
+title={Row-Sparsity Spectral Unmixing via Total Variation},   
+year={2019},  
+volume={12},  
+number={12},  
+pages={5009-5022},  
+
 }
 </pre>
 </div>
 
 
-* Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-17, 2022, Art no. 5500717. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
-* Yu-Chun Miao, Xi-Le Zhao\*, Xiao Fu\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-16, 2022, Art no. 5513916.
+* Jie Huang\*, Wu-Chao Di, **Jin-Ju Wang**, Jie Lin, Ting-Zhu Huang, \"Bilateral Joint-Sparse Regression for Hyperspectral Unmixing\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10147-10161, 2021.
 
-* Xiao-Tong Li, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, \"Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization\", _Neurocomputing_, vol. 367, pp. 1-12, 2019.
-
-* Jian-Li Wang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, \"Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
-
-* Yisi Luo, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Yi Chang, \"Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Unsupervised Deep Image Prior\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 9435-9449, 2021.
-
-* Xin Li, Ting-Zhu Huang\*, Xi-Le Zhao\*, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, \"Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion\", _Numerical Algorithms_, vol. 86, pp. 1-24, 2021.
-
-* Lin Guo, Xi-Le Zhao\*, Xian-Ming Gu, Yong-Liang Zhao, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Three-Dimensional Fractional Total Variation Regularized Tensor Optimized Model for Image Deblurring\", _Applied Mathematics and Computation_, vol. 404, pp. 126224, 2021.
-
-* Jie Lin, Ting-Zhu Huang\*, Xi-Le Zhao, Tian-Hui Ma, Tai-Xiang Jiang, **Yu-Bang Zheng**, \"A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration\", _Applied Mathematics and Computation_, vol. 408, pp. 126342, 2021.
-
-* Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
+* Wu-Chao Di, Jie Huang\*, **Jin-Ju Wang**,  Ting-Zhu Huang, \"Enhancing Reweighted Low-Rank Representation for Hyperspectral Image Unmixing\", _2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS_, pp. 3825-3828, 2021.
 
 
 ---
@@ -208,7 +150,7 @@ function toggleBibtex(articleid) {
 
 * 09/2017-06/2019: 硕士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: 本科, 西南科技大学, 数学与应用数学
+* 09/2013-06/2017: 本科, 西南科技大学, 数学与应用数学 (导师: [田宝单 教授])
 
 ---
 
