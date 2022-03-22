@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### 个人简介
  
-| <br>**王金菊**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从[王定成教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[黄捷教授](https://zhaoxile.github.io/)。 研究方向：高光谱解混，异质图像变化检测等。 <br> <br> **邮箱:** <jinjuwang123@163.com>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br> **个人简历:** [郑玉棒](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng4.jpg)&emsp; |
+| <br>**王金菊**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从[王定成教授](http://www.math.uestc.edu.cn/info/1081/2032.htm)和[黄捷教授](https://www.researchgate.net/profile/Jie-Huang-12)。 研究方向：高光谱解混，异质图像变化检测等。 <br> <br> **邮箱:** <jinjuwang123@163.com>  <br> **链接:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/) <br> **个人简历:** [郑玉棒](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://jinju123.github.io/images/jinjuwang.jpg)&emsp; |
 
 
 ### 学术论文
@@ -202,62 +202,31 @@ function toggleBibtex(articleid) {
 
 ### 教育背景 
 
-* 03/2021-至今: 实习生, 日本理化学研究所; 计算机科学 (导师: [赵启斌 教授](https://qibinzhao.github.io/))
+* 03/2021-至今: 访问学者, University of Toulouse, IRIT/INP-ENSEEIHT, 信号与通信 (导师: [Nicolas Dobigeon 教授](https://www.researchgate.net/profile/Nicolas-Dobigeon/research))
 
-* 09/2019-至今: 博士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-至今: 博士研究生, 电子科技大学, 数学 (导师: [王定成 教授](http://www.math.uestc.edu.cn/info/1081/2032.htm))
 
 * 09/2017-06/2019: 硕士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: 本科, 安徽财经大学, 信息与计算科学
+* 09/2013-06/2017: 本科, 西南科技大学, 数学与应用数学
 
 ---
 
 ### 获奖情况
 
-*  第二届川渝科技学术大会优秀论文一等奖, 四川省科学技术协会/重庆市科学技术协会, 2021
-*  2021年度\"学术新秀\", 电子科技大学, 2021
-*  博士研究生国家奖学金, 电子科技大学, 2020
-*  学业一等奖学金, 电子科技大学, 2020
+*  博士研究生国家奖学金, 电子科技大学, 2021
+*  学业一等奖学金, 电子科技大学, 2021
+*  学业二等奖学金, 电子科技大学, 2020
 *  优秀研究生, 电子科技大学, 2020
 *  理科特别奖学金, 电子科技大学, 2019
 
 
 ---
 
-### 学术活动
 
-#### 报告
 
-* 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[在线](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
-* 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **日本横滨** (20分钟小组报告) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-#### 审稿
-
-*  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-*  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
-*  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
-*  Applied Mathematical Modeling
-*  Information Systems
-*  Machine Learning
-*  Signal Processing: Image Communication
-*  ACML 2021
-*  ... ...
-
-#### 合作者
-
-*  [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-*  [赵熙乐教授](https://zhaoxile.github.io/)
-*  [赵启斌教授](https://qibinzhao.github.io)
-*  [蒋太翔教授](https://taixiangjiang.github.io)
-*  [冀腾宇博士](https://sites.google.com/site/tengyuji90/)
-*  [郑文洁](https://wjz1355.github.io)
-*  [马天咴博士](https://dblp.org/pid/173/2719.html)
-*  [陈勇博士](https://chenyong1993.github.io/yongchen.github.io/)
-*  [王检利博士](https://wangjianli123.github.io/)
-*  [丁猛博士](https://mengding56.github.io)
-*  [林杰博士](https://jielin96.github.io/)
-*  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
