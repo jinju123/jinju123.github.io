@@ -50,12 +50,9 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br>**Jin-Ju Wang (王金菊)** is currently pursuing the Ph.D. degree (advised by [Prof. Ding-Cheng Wang](https://www.math.uestc.edu.cn/info/1081/2032.htm) and [Prof. Jie Huang](https://www.researchgate.net/profile/Jie-Huang-12)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is a trainee (advised by [Prof. Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html)) with the Change Detection Team, University of Toulouse, IRIT/INP-ENSEEIHT. His research interests include hyperspectral unmixing, and change detection between heterogeneous images. <br> <br> **Email:** <jinjuwang123@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/jinjuwang.jpg)&emsp; |
+| <br>**Jin-Ju Wang (王金菊)** is currently pursuing the Ph.D. degree (advised by [Prof. Ding-Cheng Wang](https://www.math.uestc.edu.cn/info/1081/2032.htm) and [Prof. Jie Huang](https://www.researchgate.net/profile/Jie-Huang-12)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is a trainee (advised by [Prof. Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html)) with the Change Detection Team, University of Toulouse, IRIT/INP-ENSEEIHT. His research interests include hyperspectral unmixing, and change detection between heterogeneous images. <br> <br> **Email:** <jinjuwang123@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://jinju123.github.io/images/jinjuwang.jpg)&emsp; |
 
-%### News
-%* 2022.3.15: One paper \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\" has been accepted by _**Journal of Scientific %Computing**_.
 
----
 
 ### Publications
 
@@ -204,68 +201,25 @@ function toggleBibtex(articleid) {
 
 ### Experiences 
 
-* 03/2021-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
+* 03/2021-Current: Signal and Communications Group, the Institut de Recherche en Informatique de Toulouse (University of Toulouse, IRIT/INP-ENSEEIHT); visiting student in Signal and Communications (Supervisor: [Prof. Nicolas Dobigeon](https://www.researchgate.net/profile/Nicolas-Dobigeon/research))
 
-* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ding-Cheng Wang](http://www.math.uestc.edu.cn/info/1081/2032.htm))
 
 * 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science (Supervisor: Prof. Chunzhong Li)
+* 09/2013-06/2017: Southwest University of Science and Technology (SWUST）; Bachelor student in Mathematics and Applied Mathematics (Supervisor: Prof. Baodan Tian)
 
 ---
 
 ### Awards and Honors
-
-*  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (第二届川渝科技学术大会优秀论文一等奖), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
-*  Academic Rookie (学术新秀), UESTC, 2021
-*  National Scholarship for Ph. D. student (博士研究生国家奖学金), UESTC, 2020
-*  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2020
+*  National Scholarship for Ph. D. student (博士研究生国家奖学金), UESTC, 2021
+*  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2021
+*  Second-Class Academic Scholarship (学业二等奖学金), UESTC, 2020
 *  Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019
-*  Pacemaker to Merit Student (三好学生标兵), AUFE, 2015 and 2016
-
 ---
 
-### Reproducible Research
-
-*  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
 
----
-
-### Academic Activities
-
-#### Reports
-
-* 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
-
-* 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
-
-#### Reviewer
-
-*  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-*  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
-*  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
-*  Applied Mathematical Modeling
-*  Information Systems
-*  Machine Learning
-*  Signal Processing: Image Communication
-*  ACML 2021
-*  ... ...
-
-#### Co-authors
-
-*  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-*  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
-*  [Prof. Qibin Zhao](https://qibinzhao.github.io)
-*  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
-*  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
-*  [Ms. Wen-Jie Zheng](https://wjz1355.github.io)
-*  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
-*  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
-*  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
-*  [Dr. Meng Ding](https://mengding56.github.io)
-*  [Dr. Jie Lin](https://jielin96.github.io/)
-*  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
