@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### 个人简介
  
-| <br>**王金菊**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从[王定成教授](http://www.math.uestc.edu.cn/info/1081/2032.htm)和[黄捷教授](https://www.researchgate.net/profile/Jie-Huang-12)。 研究方向：高光谱解混，异质图像变化检测等。 <br> <br> **邮箱:** <jinjuwang123@163.com>  <br> **链接:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/) <br>  |
+| <br>**王金菊**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从[王定成教授](http://www.math.uestc.edu.cn/info/1081/2032.htm)和[黄捷教授](https://www.researchgate.net/profile/Jie-Huang-12)。 研究方向：高光谱解混，异质图像变化检测等。 <br> <br> **邮箱:** <jinjuwang123@163.com>  <br> **链接:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/) <br> ![image](https://jinju123.github.io/images/jinjuwang.jpg)&emsp;|
 
 
 ### 学术论文
