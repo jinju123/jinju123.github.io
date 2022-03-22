@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yu-Bang Zheng (Yubang Zheng)
+title: Jin-Ju Wang (Jinju Wang)
 comments: true
 permalink: /homepage/
 
@@ -50,10 +50,10 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br>**Yu-Bang Zheng (郑玉棒)** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. He is a trainee (advised by [Prof. Qibin Zhao](https://qibinzhao.github.io)) with the Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan. His research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. <br> <br> **Email:** <zhengyubang@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
+| <br>**Jin-Ju Wang (王金菊)** is currently pursuing the Ph.D. degree (advised by [Prof. Ding-Cheng Wang](https://www.math.uestc.edu.cn/info/1081/2032.htm) and [Prof. Jie Huang](https://www.researchgate.net/profile/Jie-Huang-12)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. She is a trainee (advised by [Prof. Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html)) with the Change Detection Team, University of Toulouse, IRIT/INP-ENSEEIHT. His research interests include hyperspectral unmixing, and change detection between heterogeneous images. <br> <br> **Email:** <jinjuwang123@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Jin-Ju-Wang)  &emsp; [GitHub](https://github.com/jinju123/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/jinjuwang.jpg)&emsp; |
 
-### News
-* 2022.3.15: One paper \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\" has been accepted by _**Journal of Scientific Computing**_.
+%### News
+%* 2022.3.15: One paper \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\" has been accepted by _**Journal of Scientific %Computing**_.
 
 ---
 
